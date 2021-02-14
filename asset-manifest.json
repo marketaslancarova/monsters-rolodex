@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/marketaslancarova/monsters-rolodex.git/static/css/main.6c299601.chunk.css",
-    "main.js": "/marketaslancarova/monsters-rolodex.git/static/js/main.d6efb8b4.chunk.js",
-    "main.js.map": "/marketaslancarova/monsters-rolodex.git/static/js/main.d6efb8b4.chunk.js.map",
-    "runtime-main.js": "/marketaslancarova/monsters-rolodex.git/static/js/runtime-main.32d30748.js",
-    "runtime-main.js.map": "/marketaslancarova/monsters-rolodex.git/static/js/runtime-main.32d30748.js.map",
-    "static/js/2.ab50346d.chunk.js": "/marketaslancarova/monsters-rolodex.git/static/js/2.ab50346d.chunk.js",
-    "static/js/2.ab50346d.chunk.js.map": "/marketaslancarova/monsters-rolodex.git/static/js/2.ab50346d.chunk.js.map",
-    "static/js/3.293d84d7.chunk.js": "/marketaslancarova/monsters-rolodex.git/static/js/3.293d84d7.chunk.js",
-    "static/js/3.293d84d7.chunk.js.map": "/marketaslancarova/monsters-rolodex.git/static/js/3.293d84d7.chunk.js.map",
-    "index.html": "/marketaslancarova/monsters-rolodex.git/index.html",
-    "static/css/main.6c299601.chunk.css.map": "/marketaslancarova/monsters-rolodex.git/static/css/main.6c299601.chunk.css.map",
-    "static/js/2.ab50346d.chunk.js.LICENSE.txt": "/marketaslancarova/monsters-rolodex.git/static/js/2.ab50346d.chunk.js.LICENSE.txt"
+    "main.css": "/monsters-rolodex/static/css/main.6c299601.chunk.css",
+    "main.js": "/monsters-rolodex/static/js/main.d6efb8b4.chunk.js",
+    "main.js.map": "/monsters-rolodex/static/js/main.d6efb8b4.chunk.js.map",
+    "runtime-main.js": "/monsters-rolodex/static/js/runtime-main.fcd535bf.js",
+    "runtime-main.js.map": "/monsters-rolodex/static/js/runtime-main.fcd535bf.js.map",
+    "static/js/2.ab50346d.chunk.js": "/monsters-rolodex/static/js/2.ab50346d.chunk.js",
+    "static/js/2.ab50346d.chunk.js.map": "/monsters-rolodex/static/js/2.ab50346d.chunk.js.map",
+    "static/js/3.293d84d7.chunk.js": "/monsters-rolodex/static/js/3.293d84d7.chunk.js",
+    "static/js/3.293d84d7.chunk.js.map": "/monsters-rolodex/static/js/3.293d84d7.chunk.js.map",
+    "index.html": "/monsters-rolodex/index.html",
+    "static/css/main.6c299601.chunk.css.map": "/monsters-rolodex/static/css/main.6c299601.chunk.css.map",
+    "static/js/2.ab50346d.chunk.js.LICENSE.txt": "/monsters-rolodex/static/js/2.ab50346d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.32d30748.js",
+    "static/js/runtime-main.fcd535bf.js",
     "static/js/2.ab50346d.chunk.js",
     "static/css/main.6c299601.chunk.css",
     "static/js/main.d6efb8b4.chunk.js"
